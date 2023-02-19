@@ -1,0 +1,14 @@
+{
+  "name": "bbc-project",
+  "version": "1.0.0",
+  "description": "Test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run --browser chrome"
+  },
+  "author": "Shravya",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  }
+}
